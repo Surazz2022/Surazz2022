@@ -11,7 +11,7 @@
 
 - 🌱 Currently working on real-world **AI/ML** projects that solve finance problems
 - 💼 Active in the **FinTech** domain, building smart systems for market data analysis
-- 🎙️ Side hustle: **Stand-up comedy**—I make people laugh... even when I don't try 😄
+- 🎙️ Side hustle: **Stand-up comedy**—I try to make people laugh... but audience donot try to laugh!😄
 - 🧩 Love exploring: **Machine Learning**, **Neural Networks**, and **Market Intelligence**
 
 ---
