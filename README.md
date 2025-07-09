@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surazz Kharal</h1>
-<h3 align="center">🚀 A Passionate AI Developer from Nepal 🇳🇵</h3>
+<h3 align="center">🚀 Passionate AI Developer | Fintech Enthusiast | Data Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surazz2022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,18 +9,26 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently diving deep into **AI/ML for real-world projects**
-- 💼 Working in the **finance/fintech** domain, analyzing market data and building intelligent systems
-- 🎙️ I also do **stand-up comedy**—people laugh harder when I **stop** the jokes 😄
-- 📫 Reach me at **surz.khl49@gmail.com**
+- 🌱 Currently working on real-world **AI/ML** projects that solve finance problems
+- 💼 Active in the **FinTech** domain, building smart systems for market data analysis
+- 🎙️ Side hustle: **Stand-up comedy**—I make people laugh... even when I don't try 😄
+- 🧩 Love exploring: **Machine Learning**, **Neural Networks**, and **Market Intelligence**
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/suraj kharal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="mailto:surz.khl49@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/suraj-kharal-baa9271b1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/surazz2022" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub" width="30" height="30" />
   </a>
 </p>
 
@@ -30,7 +38,7 @@
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" /></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" /></a>
@@ -45,10 +53,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surazz2022&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=surazz2022&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surazz2022&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=surazz2022&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+---
+
+### 💡 Quote of the Day
+
+> _"First, solve the problem. Then, write the code."_ — John Johnson
+
+---
+
+### 🎯 Currently Focusing On
+
+- 🔍 Time series analysis for stock prediction
+- 🧠 Building ensemble learning models for real-time finance insights
+- 🌏 Scaling intelligent solutions for Nepal’s stock market (NEPSE)
+
+---
+
+### 🙋‍♂️ Fun Fact
+
+People laugh hardest when I stop telling jokes... maybe silence is my punchline 😎
+
+---
+
