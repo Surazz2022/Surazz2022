@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surazz Kharal</h1>
-<h3 align="center">🚀 Passionate AI Developer | Fintech Enthusiast | Data Explorer</h3>
+<h3 align="center">🚀 Passionate AI Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surazz2022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -63,7 +63,7 @@
 
 ---
 
-### 💡 Quote of the Day
+### 💡 Favourite Quote
 
 > _"First, solve the problem. Then, write the code."_ — John Johnson
 
@@ -72,8 +72,8 @@
 ### 🎯 Currently Focusing On
 
 - 🔍 Time series analysis for stock prediction
-- 🧠 Building ensemble learning models for real-time finance insights
-- 🌏 Scaling intelligent solutions for Nepal’s stock market (NEPSE)
+- 🧠 Learning to build machine learning models for real-time finance insights
+- 🌏 Learning to scale intelligent solutions for Nepal’s stock market (NEPSE)
 
 ---
 
