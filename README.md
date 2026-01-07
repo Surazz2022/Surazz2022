@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surazz Kharal</h1>
-<h3 align="center">🚀 Passionate AI Developer</h3>
+<h3 align="center">🚀 Passionate AI Developer from Nepal</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surazz2022&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,10 +9,9 @@
 
 ### 🧠 About Me
 
-- 🌱 Currently working on real-world **AI/ML** projects that solve finance problems
-- 💼 Active in the **FinTech** domain, building smart systems for market data analysis
+- 🌱 Currently working as Machine Learning Engineer.
 - 🎙️ Side hustle: **Stand-up comedy**—I try to make people laugh... but audience donot try to laugh!😄
-- 🧩 Love exploring: **Machine Learning**, **Neural Networks**, and **Market Intelligence**
+- 🧩 Love exploring: **Machine Learning**, **Neural Networks**, and **Generative AI**
 
 ---
 
