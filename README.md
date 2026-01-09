@@ -2,13 +2,13 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 🎓 Information Management graduate from Nepal  
 👨🏽‍💻 Machine Learning Engineer  
 🚀 Working on AI-driven data and finance solutions  
 📊 Interests: Machine Learning, Neural Networks, Generative AI  
-📈 Focused on building AI models for social domain.  
+📈 Focused on building intelligent systems using data.  
 📫 Email: surz.khl49@gmail.com  
 
 **Languages & Tools**  
@@ -18,9 +18,9 @@ PostgreSQL · MySQL · Docker · Git · Flask
 ⭐️ From Suraj
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=36BCF7&center=true&vCenter=true&width=300&lines=Machine+Learning;AI+%7C+Data+%7C+Finance;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=36BCF7&center=true&vCenter=true&width=520&height=120&lines=Machine+Learning+Engineer;AI+%7C+Data+%7C+Finance;Building+Intelligent+Systems" />
 
 </td>
 </tr>
