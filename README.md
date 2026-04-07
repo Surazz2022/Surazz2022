@@ -6,7 +6,7 @@
 
 🎓 Information Management graduate from Nepal  
 👨🏽‍💻 Machine Learning Engineer  
-🚀 Working on AI-driven data and finance solutions  
+🚀 Working on AI-driven data solutions  
 📊 Interests: Machine Learning, Neural Networks, Generative AI  
 📈 Focused on building intelligent systems using data.  
 📫 Email: surz.khl49@gmail.com  
