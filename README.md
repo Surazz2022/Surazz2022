@@ -13,7 +13,7 @@
 
 **Languages & Tools**  
 Python · scikit-learn · PyTorch · TensorFlow · NumPy · Pandas  
-PostgreSQL · MySQL · Docker · Git · Flask  
+PostgreSQL · MySQL · Docker · Git · Flask  . FastApi
 
 ⭐️ From Suraj
 
